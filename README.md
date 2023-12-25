@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @THEBRAINALOK
 - 👀 I’m interested in ...Coding 
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Ui/Ux
+- 🌱 I'm currently learning.... Javascript and CSS
 - 💞️ I’m looking to collaborate on ...Hacking
 - 📫 How to reach me ... alokpal2803@gmail.com
 
