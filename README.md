@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THEBRAINALOK
+- 👋 Hi, I’m @ALOK
 - 👀 I’m interested in ...Coding 
 - 🌱 I’m currently learning ...Ui/Ux
 - 🌱 I'm currently learning.... Javascript and CSS
