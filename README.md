@@ -62,4 +62,5 @@ Output Layer: Sigmoid activation for binary classification (tumor/no tumor).
 The images are preprocessed before being fed into the model:
 
 Resized to 224x224 pixels.
-Converted to arrays and normalized by dividing by 255 to scale pixel values between 0 and 1.
+Converted to arrays and normalized by dividing by 255 to scale pixel values between
+0 and 1.
