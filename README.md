@@ -64,3 +64,12 @@ The images are preprocessed before being fed into the model:
 Resized to 224x224 pixels.
 Converted to arrays and normalized by dividing by 255 to scale pixel values between
 0 and 1.
+
+## Future Improvements
+
+Model Optimization: Further optimize the CNN architecture for better performance.
+Data Augmentation: Experiment with different augmentation techniques to improve the model's robustness.
+Transfer Learning: Apply transfer learning with pre-trained models like VGG16 or ResNet to improve accuracy.
+<br>
+## Conclusion
+This project provides a basic CNN model for binary classification of brain MRI images to detect the presence of brain tumors. With further tuning and dataset improvements, this model can be a useful tool for early diagnosis of brain tumors.
