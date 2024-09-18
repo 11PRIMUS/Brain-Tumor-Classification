@@ -9,9 +9,9 @@ The goal is to automate the detection of brain tumors from MRI scans using deep 
 Dataset
 The dataset consists of MRI images of brain scans, categorized into two classes:
 
-tumor: MRI images showing the presence of a brain tumor.
-<a href="https://drive.google.com/drive/folders/1SDuVwytGl6HHAsi-2NTUuiO2zMOvtxPb?usp=drive_link">No Tumor</a>
-: MRI images showing no signs of a brain tumor.
+<a href="https://drive.google.com/drive/folders/1UH61lf55bBR-jEQ6u9GdpkT_aFo3MNaW?usp=drive_link">Tumor</a>: MRI images showing the presence of a brain tumor.
+
+<a href="https://drive.google.com/drive/folders/1SDuVwytGl6HHAsi-2NTUuiO2zMOvtxPb?usp=drive_link">No Tumor</a>: MRI images showing no signs of a brain tumor.
 You can download the dataset from here or use your own labeled dataset for training.
 
 ```Dataset Structure:
